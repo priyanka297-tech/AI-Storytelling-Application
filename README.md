@@ -1,5 +1,3 @@
-# AI-Storytelling-Application
-An AI-powered storytelling application that generates creative narratives based on user prompts using Groq API and deep learning models like LSTM and GRU. The system combines real-time inference with sequence modeling to produce coherent and engaging stories across multiple genres.
 # 📖 AI Storytelling App (Groq API + LSTM + GRU)
 
 An AI-powered storytelling application that generates creative and engaging stories based on user input. The system integrates Groq API for fast inference along with deep learning models (LSTM & GRU) to enhance narrative coherence and contextual understanding.
