@@ -1,9 +1,0 @@
-phidata
-groq
-openai
-duckduckgo-search
-fastapi
-yfinance
-packaging
-unicorn
-python-dotenv
