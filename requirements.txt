@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 phidata
 groq
 openai
@@ -7,7 +6,6 @@ fastapi
 yfinance
 packaging
 unicorn
-=======
 phidata
 groq
 openai
@@ -16,5 +14,4 @@ fastapi
 yfinance
 packaging
 unicorn
->>>>>>> 9e7b9cf50515fc9d22748b4f673cb475dd82838d
 python-dotenv

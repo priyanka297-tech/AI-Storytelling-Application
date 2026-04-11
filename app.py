@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import streamlit as st
 from own_agents import generate_story
 
@@ -18,7 +17,7 @@ if st.button("✨ Generate"):
             story = generate_story(prompt, genre, length)
 
         st.text_area("📜 Story", story, height=300)
-=======
+
 import streamlit as st
 from own_agents import generate_story
 
@@ -38,4 +37,3 @@ if st.button("✨ Generate"):
             story = generate_story(prompt, genre, length)
 
         st.text_area("📜 Story", story, height=300)
->>>>>>> 9e7b9cf50515fc9d22748b4f673cb475dd82838d
