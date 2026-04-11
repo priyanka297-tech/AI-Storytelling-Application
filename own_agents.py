@@ -3,7 +3,7 @@ from groq import Groq
 from groq import Groq
 
 client = Groq(
-  api_key="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"
+  api_key="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"
 )
 
 
